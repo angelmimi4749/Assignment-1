@@ -1,0 +1,41 @@
+header {
+  border: 25px solid black;
+  border-bottom-color: green;
+  padding: 5px;
+  margin: 15px;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+body {
+  border: 25px solid black;
+  border-bottom-color: green;
+  padding: 10px;
+  margin: 15px;
+}
+
+.images {
+  width: 400px;
+  border: 10px solid black;
+  margin: 100px 200px;
+}
+
+main {
+  column-count: 2;
+  background-color: green;
+}
+
+.text {
+  font-size: 25px;
+  border: 10px solid black;
+  margin: 100px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
